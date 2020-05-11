@@ -1,2 +1,2 @@
 # Natours
-Practiing advanced CSS and SASS
+Practicing advanced CSS and SASS
