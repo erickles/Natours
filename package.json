@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/erickles/Natours#readme",
   "devDependencies": {
-    "node-sass":"^4.14.1",
-    "live-server":"^1.2.1"
+    "node-sass": "^4.14.1",
+    "live-server": "^1.2.1"
   }
 }
